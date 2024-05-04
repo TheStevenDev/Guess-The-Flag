@@ -1,5 +1,5 @@
 # Guess The Flag
-Demo: <a href="thestevendev.github.io/Guess-The-Flag/">Try a live demo here!</a>
+Demo: <a href="https://thestevendev.github.io/Guess-The-Flag/">Try a live demo here!</a>
 
 ## Description
 
