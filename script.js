@@ -101,7 +101,7 @@ function startTimer(){
     totalTime = timePerFlag*totalScore;
     remainingTime = totalTime;
 
-    document.getElementById("score-label").innerHTML = "Correct: "+score+"/"+totalScore;
+    document.getElementById("score-label").innerHTML = "Correct: "+score+"/"+(wronged+score);
 
     //timer
     startTime = Date.now();
