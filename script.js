@@ -43,7 +43,7 @@ function setDifficult(e){
     let target = e.target;
 
     difficult = target.innerHTML;
-    document.getElementsByClassName("difficult-container")[0].getElementsByTagName("p")[0].innerHTML = "Difficult: "+difficult;
+    document.getElementsByClassName("difficult-container")[0].getElementsByTagName("p")[0].innerHTML = "Difficulty: "+difficult;
 
 }
 
